@@ -6,4 +6,6 @@ Pricing European Call and Put Options Using an Explicit Finite Difference Method
 
 ![findiffexplicit 2](https://github.com/js2nijjar/findiffexplicit/assets/141672092/4d1ad398-31fe-408f-a26e-50a2a30436af)
 
+Price of a ITM/ATM/OTM Call and Put 
+
 ![findiffexplicit 3](https://github.com/js2nijjar/findiffexplicit/assets/141672092/1aeba600-ff93-432e-b036-4b773598d7a7)
