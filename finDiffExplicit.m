@@ -1,5 +1,7 @@
 function oPrice = finDiffExplicit(X,S0,r,sig,Svec,tvec,oType)
 
+% Implementation of the code follows closely from the original author Phil Goddard
+
 % Inputs
 % X - strike
 % S0 - stock price
